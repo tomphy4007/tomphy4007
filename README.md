@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomphy4007" alt="tomphy4007" /></a> </p>
 
-- 📫 How to reach me **@tomphy4007 on discord**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
