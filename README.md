@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Tomphy</h1>
+<h1 align="center">Hi 👋, I'm Tomphy</h1>
 <h3 align="center">a 15 year old developer from germany</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomphy4007" alt="tomphy4007" /></a> </p>
